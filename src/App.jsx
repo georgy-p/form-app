@@ -4,7 +4,7 @@ import FormContainer from './FormContainer';
 
 const App = () => {
   return (
-    <div style={{ background: '#E4DEFE', height: '100vh' }}>
+    <div style={{ background: '#E4DEFE', height: '100%' }}>
       <Container>
         <Row className='d-flex align-items-center justify-content-center'>
           <Col sm={8} lg={6} style={{ background: 'white' }} className='p-5'>
